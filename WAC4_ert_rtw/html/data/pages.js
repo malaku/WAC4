@@ -1,0 +1,1 @@
+var reportPages = [["Summary","WAC4_survey.html"],["Subsystem Report","WAC4_subsystems.html"],["Code Interface Report","WAC4_interface.html"],["Traceability Report","WAC4_trace.html"],["Static Code Metrics Report","WAC4_metrics.html"],["Code Replacements Report","WAC4_replacements.html"],["Coder Assumptions","WAC4_coderassumptions.html"]];

@@ -1,0 +1,19 @@
+WAC4.c.o: C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/WAC4.c \
+ C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/WAC4.h \
+ C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h \
+ C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h
+
+C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/WAC4.h:
+
+C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h:
+
+C:/Users/16134/Desktop/masters/Model/WAC4_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2022a/simulink/include/rtw_continuous.h:
