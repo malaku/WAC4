@@ -30,7 +30,7 @@ Before running the compiled code, ensure that the CAN interface is correctly set
 ```bash
 bash can_setup.sh can1 1000000
 ```
-This command configures the CAN interface (`can1`) with a baud rate of 1 Mbps, identical to the setup used in WAC1, WAC2, and WAC4.
+This command configures the CAN interface (`can1`) with a baud rate of 1 Mbps, identical to the setup used in WAC1, WAC2, and WAC3.
 
 ## Execution
 Once the CAN interface is set up and the code is compiled, you can execute the program using:
